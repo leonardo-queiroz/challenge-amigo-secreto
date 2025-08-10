@@ -125,6 +125,14 @@ button {
     background-color: #a1a1a1;
 }
 
+.button-remove {
+    all: unset;
+    margin-left: 15px;
+    font-weight: bold;    
+    font-size: 20px;
+    cursor: pointer;
+}
+
 /* Listas */
 ul {
     list-style-type: none;

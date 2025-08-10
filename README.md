@@ -1,0 +1,7 @@
+# ONE: Challenge Amigo Secreto
+
+Esta aplicação foi criada como solução de um desafio do programa [ONE - Oracle Next Education](https://www.oracle.com/br/education/oracle-next-education/). Com ela você pode adicionar e remover amigos de uma lista para sortear aleatoriamente um deles como "amigo secreto". O principal objetivo deste desafio foi fortalecer minhas habilidades em lógica de programação, utilizando JavaScript. Os arquivos HTML, CSS e o conteúdo da pasta assets foram previamente fornecidos.
+
+Para concluir esse desafio precisei utilizar técnicas de manipulação do DOM (Modelo de Objeto de Documentos), adicionando, removendo e modificando elementos presentes no HTML utilizando JavaScript. Também foi uma ótima forma de praticar funções, condicionais e uso de arrays. Para me auto-desafiar e me aprimorar, implementei uma forma de remover os nomes colocados na lista, algo que não havia sido proposto pelo desafio, o que exigiu muita pesquisa e algumas visitas ao Stack Overflow.
+
+Como uma forma de já ir me acostumando ao fluxo de trabalho real fazendo parte de uma equipe e para praticar o uso de Git, esse projeto foi todo feito seguindo o modelo Gitflow. Com o uso de duas branches permanentes (main e develop) e de várias branches temporárias, além de commits regulares seguindo a convenção [Conventional Commits](https://www.conventionalcommits.org/pt-br/v1.0.0/).
